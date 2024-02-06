@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-size: cover;
+    
+}
+.card{
+    float: left;
+}
+.head2{
+    color: rgba(197, 245, 7, 0.778);
+}
+.head3{
+    color: red;
+    
+}
+.head4{
+    color: rgb(220, 10, 10);
+}
+.h21{
+    color: rosybrown;
+}
+.s1{
+    color: white;
+}
+.div1{
+    float: left;
+   padding-left: 35px;
+    padding-top: 25px;
+}
+.center1{
+    padding-left:500px;
+}
+.height{
+    height: 40em;
+}
